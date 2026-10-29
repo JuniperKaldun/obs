@@ -1,0 +1,12 @@
+# Obsidian: локальное состояние и корзина
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.trash/
+
+# ОС
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# временные файлы
+*.tmp
